@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page {
+    width:400px;
+    height: 720px;
+    font-family: "roboto";
+    border-style: solid;
+    border-width: 4px;
+    border-color: #151765;
+}
+
+.top-container {
+    height: 250px;
+    width:395px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    padding:5px;
+}
+
+.top-container-heading {
+    font-family: "roboto";
+    padding: 10px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.image {
+    height: 100px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.image-heading {
+    color: #151765;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.image-paragraph {
+    color: #5a7184;
+    font-size: 13px;
+    font-family: "roboto";
+}
+
+.image-container {
+    margin: 10px;
+    text-align: center;
+}
+
+.margins {
+    margin: 7px;
+}
+
+.sub-page-text {
+    padding: 5px;
+}
+
+.sub-page-paragraph {
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.sub-page-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.sub-page-top-container {
+    background-color: #151765;
+    padding: 10px;
+}
+
+.sub-page-lower-container-heading {
+    color: #151765;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.sub-page-lower-container-paragraph {
+    color: #5a7184;
+    font-size: 12px;
+}
+
+.sub-page-lower-container-time {
+    color: #151765;
+    font-size: 10px;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+.sub-page-lower-container {
+    padding: 5px;
+}
+.sub-page-margin{
+    margin:10px;
+}
